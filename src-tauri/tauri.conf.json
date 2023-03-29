@@ -15,8 +15,10 @@
     "updater": {
       "active": true,
       "dialog": true,
-      "endpoints": ["https://lencx.github.io/OhMyBox/install.json"],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEU5MEIwREEzNDlBNzdDN0MKUldSOGZLZEpvdzBMNmFOZ2cyY2NPeTdwK2hsV3gwcWxoZHdUWXRZWFBpQTh1dWhqWXhBdkl0cW8K"
+      "endpoints": [
+        "https://cs686.github.io/OhMyBox/install.json"
+      ],
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEM1RkZDREU0MTNFMUNFNzYKUldSMnp1RVQ1TTMveFVYOFdCZDZ6aEhqcnMzNXhhZTZYOHU4N25uM3pJN2ZxdUlHd3BZWFFNbGgK"
     },
     "systemTray": {
       "iconPath": "icons/icon.png",
@@ -26,7 +28,9 @@
     "allowlist": {
       "all": true,
       "fs": {
-        "scope": ["$HOME/.omb/*"]
+        "scope": [
+          "$HOME/.omb/*"
+        ]
       }
     },
     "bundle": {
