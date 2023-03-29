@@ -1,7 +1,7 @@
 {
   "name": "omb",
   "private": true,
-  "version": "0.1.10",
+  "version": "0.1.11",
   "author": "lencx <cxin1314@gmail.com>",
   "scripts": {
     "dev": "concurrently -g --raw \"npm:rsw-watch\" \"vite --port=4096\"",
