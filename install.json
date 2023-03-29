@@ -1,0 +1,35 @@
+{
+  "version": "v0.1.12",
+  "notes": "feat: updater8888",
+  "pub_date": "2023-03-29T02:47:40.546Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveFJVNHIzODFLVERaMlA4dWNPR2xhMXdlWmZPaEU0UFdpWnduWkt1N24weHlMOHBCMEVQeUJtMWtsaDJ5Yzljc1VtMzYzVmxmN1VmK1lEZ2YwRTZ2eHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU3ODg4CWZpbGU6T2hNeUJveF8wLjEuMTJfeDY0X2VuLVVTLm1zaS56aXAKL1ZuOUJUQmlwMElCV2w0THFoUEdCVkcwVExoZTlDR2N1cWE5dUI0QU9mUjI1NlBTY0ZCSUYyZDFPWFozVXJMSzZud1hvcHhTZlEvejJHSGN0YmlLREE9PQo=",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/OhMyBox_0.1.12_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveFhDem52TXBqVFRBSE1URFQwaWNVblQ0cWxDRFVyMnBpUFdEenJQOGgzaUVmcHdqYzVXU2Nnb1BwWHppZ3R5bXhFaVBHZmlVcGp6RVZ1cUFvYVVxWlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU3ODQwCWZpbGU6b2gtbXktYm94XzAuMS4xMl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKQ3pWUi8xYlVaMmtOdmZ3VXFydmtFblBGYXpCdXQrcmhEdkxiRUl1dUdFNXc3d1Mwd2x0TE5WN0R5YnZkK3hOVm9TNGF4VTRQSkJaTVBLT0tiRjZDRHc9PQo=",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/oh-my-box_0.1.12_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveGFhR3FObkVnOCtSdUllMnFHWlE2VzRhYmEza2IxeXZtZzlZNWQ3aHYvemg3WGZGS3VldnNsM0pidWVWTVNPWGxUWUhMbTF3Z3ZyY2pPZjdnVDUzeVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU4MDA0CWZpbGU6T2hNeUJveC5hcHAudGFyLmd6CnRPdlA1Q0FvWFJMbStUb0NvcFp6QkdMN01lNzlzYk9LQ09kaE43cWkvY1hwNS90N09PV0puMXQ2WFRDYjlBd1dDMXJwa1B4UjBUbjFJa05CWWNqYkJRPT0K",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/OhMyBox.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveGFhR3FObkVnOCtSdUllMnFHWlE2VzRhYmEza2IxeXZtZzlZNWQ3aHYvemg3WGZGS3VldnNsM0pidWVWTVNPWGxUWUhMbTF3Z3ZyY2pPZjdnVDUzeVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU4MDA0CWZpbGU6T2hNeUJveC5hcHAudGFyLmd6CnRPdlA1Q0FvWFJMbStUb0NvcFp6QkdMN01lNzlzYk9LQ09kaE43cWkvY1hwNS90N09PV0puMXQ2WFRDYjlBd1dDMXJwa1B4UjBUbjFJa05CWWNqYkJRPT0K",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/OhMyBox.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveGFhR3FObkVnOCtSdUllMnFHWlE2VzRhYmEza2IxeXZtZzlZNWQ3aHYvemg3WGZGS3VldnNsM0pidWVWTVNPWGxUWUhMbTF3Z3ZyY2pPZjdnVDUzeVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU4MDA0CWZpbGU6T2hNeUJveC5hcHAudGFyLmd6CnRPdlA1Q0FvWFJMbStUb0NvcFp6QkdMN01lNzlzYk9LQ09kaE43cWkvY1hwNS90N09PV0puMXQ2WFRDYjlBd1dDMXJwa1B4UjBUbjFJa05CWWNqYkJRPT0K",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/OhMyBox.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveFhDem52TXBqVFRBSE1URFQwaWNVblQ0cWxDRFVyMnBpUFdEenJQOGgzaUVmcHdqYzVXU2Nnb1BwWHppZ3R5bXhFaVBHZmlVcGp6RVZ1cUFvYVVxWlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU3ODQwCWZpbGU6b2gtbXktYm94XzAuMS4xMl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKQ3pWUi8xYlVaMmtOdmZ3VXFydmtFblBGYXpCdXQrcmhEdkxiRUl1dUdFNXc3d1Mwd2x0TE5WN0R5YnZkK3hOVm9TNGF4VTRQSkJaTVBLT0tiRjZDRHc9PQo=",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/oh-my-box_0.1.12_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnp1RVQ1TTMveFJVNHIzODFLVERaMlA4dWNPR2xhMXdlWmZPaEU0UFdpWnduWkt1N24weHlMOHBCMEVQeUJtMWtsaDJ5Yzljc1VtMzYzVmxmN1VmK1lEZ2YwRTZ2eHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwMDU3ODg4CWZpbGU6T2hNeUJveF8wLjEuMTJfeDY0X2VuLVVTLm1zaS56aXAKL1ZuOUJUQmlwMElCV2w0THFoUEdCVkcwVExoZTlDR2N1cWE5dUI0QU9mUjI1NlBTY0ZCSUYyZDFPWFozVXJMSzZud1hvcHhTZlEvejJHSGN0YmlLREE9PQo=",
+      "url": "https://github.com/cs686/tauri-tutorial/releases/download/v0.1.12/OhMyBox_0.1.12_x64_en-US.msi.zip"
+    }
+  }
+}
